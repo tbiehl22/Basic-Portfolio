@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+background-color: #4aaaa5;
+color: #ffffff;
+border-color: #cccccc;
+margin-left: 125px;
+float: left;
+font-family: 'Georgia', Times, Times New Roman, serif;
+text-align: center;
+width: 250px;
+}
+
+#my-image {
+float: left;
+width: 200px;
+height: 225px;
+margin-right: 20px;
+}
